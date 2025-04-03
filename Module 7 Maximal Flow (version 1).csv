@@ -1,0 +1,18 @@
+,,,,,,,,,,,,
+Units of Flow,Links,,,,Upper Bound,,,,,,,
+,From,,To,,,,Nodes,,Inflow,Outflow,Net Flow,Supply/Demand
+188,0,Butter Pecan Bluff,1,Cinnamon Swamp,188,,0,Butter Pecan Bluff,703,703,0,0
+352,0,Butter Pecan Bluff,2,Cocoa Bean Crater,352,,1,Cinnamon Swamp,188,188,0,0
+163,0,Butter Pecan Bluff,3,Melty Mint Mountains,163,,2,Cocoa Bean Crater,352,352,0,0
+158,1,Cinnamon Swamp,4,Peppermint Peninsula,181,,3,Melty Mint Mountains,163,163,0,0
+30,1,Cinnamon Swamp,6,Tartberry Thicket,73,,4,Peppermint Peninsula,273,273,0,0
+115,2,Cocoa Bean Crater,4,Peppermint Peninsula,294,,5,Tangerine Taffy Tropics,72,72,0,0
+72,2,Cocoa Bean Crater,5,Tangerine Taffy Tropics,72,,6,Tartberry Thicket,358,358,0,0
+165,2,Cocoa Bean Crater,6,Tartberry Thicket,165,,7,Turkish Delight Tundra,703,703,0,0
+0,3,Melty Mint Mountains,4,Peppermint Peninsula,250,,,,,,,
+163,3,Melty Mint Mountains,6,Tartberry Thicket,173,,,,,,,
+273,4,Peppermint Peninsula,7,Turkish Delight Tundra,273,,,Maximum Flow,,,,
+72,5,Tangerine Taffy Tropics,7,Turkish Delight Tundra,469,,,703,,,,
+0,5,Tangerine Taffy Tropics,4,Peppermint Peninsula,205,,,,,,,
+358,6,Tartberry Thicket,7,Turkish Delight Tundra,459,,,,,,,
+703,7,Turkish Delight Tundra,0,Butter Pecan Bluff,9999,,,,,,,
