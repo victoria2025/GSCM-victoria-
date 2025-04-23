@@ -1,0 +1,34 @@
+﻿,,,,,,,,,,,,,,,,,
+WH,,DC,,WH Lat,WH Long,DC Lat,DC Long,Manhattan,,WHvDC>,1,2,3,4,5,6,SUM
+1,Lava Cake Ledges,1,Waffle Cone Wonderland,45.45,-88.1,26.85,-92.4,22.9,,1,22.9,12.58,10.51,20.95,31.78,22.71,
+1,Lava Cake Ledges,2,Meringue Mountains,45.45,-88.1,48.87,-97.26,12.58,,2,24.69,31.57,29.5,33.44,12.79,16.82,
+1,Lava Cake Ledges,3,Licorice Lanes,45.45,-88.1,47,-97.06,10.51,,3,32.66,18.1,16.43,3.91,50.14,41.07,
+1,Lava Cake Ledges,4,Starburst Starlit Skies,45.45,-88.1,42.2,-105.8,20.95,,4,28.99,36.01,33.94,37.88,8.35,21.12,
+1,Lava Cake Ledges,5,Twizzler Tunnels,45.45,-88.1,32.09,-69.68,31.78,,,,,,,,,
+1,Lava Cake Ledges,6,Vanilla Chai Vortex,45.45,-88.1,26.58,-84.26,22.71,,,,,,,,,
+2,Jolly Rancher Range,1,Waffle Cone Wonderland,36.85,-77.71,26.85,-92.4,24.69,,,,,,,,,
+2,Jolly Rancher Range,2,Meringue Mountains,36.85,-77.71,48.87,-97.26,31.57,,,,,,,,,
+2,Jolly Rancher Range,3,Licorice Lanes,36.85,-77.71,47,-97.06,29.5,,WHvDC>,1,2,3,4,5,6,SUM
+2,Jolly Rancher Range,4,Starburst Starlit Skies,36.85,-77.71,42.2,-105.8,33.44,,1,0,0,0,0,0,0,0
+2,Jolly Rancher Range,5,Twizzler Tunnels,36.85,-77.71,32.09,-69.68,12.79,,2,867,0,0,0,605,518,1990
+2,Jolly Rancher Range,6,Vanilla Chai Vortex,36.85,-77.71,26.58,-84.26,16.82,,3,0,864,969,968,0,0,2801
+3,Lemon Drop Lagoon,1,Waffle Cone Wonderland,42.71,-109.2,26.85,-92.4,32.66,,4,0,0,0,0,0,0,0
+3,Lemon Drop Lagoon,2,Meringue Mountains,42.71,-109.2,48.87,-97.26,18.1,,SUM,867,864,969,968,605,518,4791
+3,Lemon Drop Lagoon,3,Licorice Lanes,42.71,-109.2,47,-97.06,16.43,,DEMAND,867,864,969,968,605,518,4791
+3,Lemon Drop Lagoon,4,Starburst Starlit Skies,42.71,-109.2,42.2,-105.8,3.91,,,,,,,,,
+3,Lemon Drop Lagoon,5,Twizzler Tunnels,42.71,-109.2,32.09,-69.68,50.14,,Setup costs,1399,2196,1231,1894,,,
+3,Lemon Drop Lagoon,6,Vanilla Chai Vortex,42.71,-109.2,26.58,-84.26,41.07,,Actual Costs,0,2196,1231,0,,,
+4,Fudge Falls,1,Waffle Cone Wonderland,36.78,-73.34,26.85,-92.4,28.99,,,,,,,,,
+4,Fudge Falls,2,Meringue Mountains,36.78,-73.34,48.87,-97.26,36.01,,Binary,0,1,1,0,,,
+4,Fudge Falls,3,Licorice Lanes,36.78,-73.34,47,-97.06,33.94,,Linking,0,-2801,-1990,0,,,
+4,Fudge Falls,4,Starburst Starlit Skies,36.78,-73.34,42.2,-105.8,37.88,,Big M,4791,4791,4791,4791,,2,76627.89
+4,Fudge Falls,5,Twizzler Tunnels,36.78,-73.34,32.09,-69.68,8.35,,,,,,,,,
+4,Fudge Falls,6,Vanilla Chai Vortex,36.78,-73.34,26.58,-84.26,21.12,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
